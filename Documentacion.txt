@@ -1,0 +1,6 @@
+﻿Este patron de diseño nos permite usar metodos de fabrica para tratar el problema de crear objetos sin tener 
+que especificar la clase exacta del objeto que se va a crear.
+
+El patron Factiry Method proporciona una manera de encapsular un grupo de "Fabricas" indivuduales que tienen un 
+tema en comun.
+
